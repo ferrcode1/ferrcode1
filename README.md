@@ -3,7 +3,9 @@
 
 # ¡Hola! Soy Fernando Uribe 👋
 
-Soy desarrollador Fullstack apasionado por la tecnología, actualmente trabajando en SEF Perú. Me encanta trabajar con PHP, MySQL, JavaScript y frameworks como CodeIgniter y Bootstrap.
+Soy un desarrollador **Back-end** especializado en PHP, MySQL, y frameworks como CodeIgniter. Me apasiona construir soluciones eficientes y escalables, y tengo una experiencia sólida trabajando en proyectos relacionados con sistemas de gestión, ERP, y aplicaciones web.
+
+- [ferrcode.com](https://ferrcode.com/) – Mi blog personal.
 
 ## Tecnologías
 
@@ -29,3 +31,6 @@ Soy desarrollador Fullstack apasionado por la tecnología, actualmente trabajand
 
 ![GitHub Followers](https://img.shields.io/github/followers/ferrcode1?label=Followers&style=social)
 ![GitHub Stars](https://img.shields.io/github/stars/ferrcode1?label=Stars&style=social)
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=ferrcode1&layout=compact&theme=radical)
+
