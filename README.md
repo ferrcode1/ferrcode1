@@ -7,6 +7,17 @@ Soy un desarrollador **Back-end** especializado en PHP, MySQL, y frameworks como
 
 - [ferrcode.com](https://ferrcode.com/) – Mi blog personal.
 
+## Sobre mí fuera del código
+
+Cuando no estoy escribiendo líneas de código o resolviendo problemas técnicos, disfruto de otras actividades que me ayudan a mantener el equilibrio:
+
+- 🚴‍♂️ **Hacer rutas en bicicleta**: Me encanta salir a explorar nuevas rutas y disfrutar del aire libre.
+- 📚 **Leer**: Siempre estoy buscando nuevos libros para ampliar mis conocimientos y relajarme.
+- ⚙️ **Proyectos con Arduino**: Me gusta experimentar con electrónica y crear proyectos de hobby utilizando Arduino.
+- 🧘‍♂️ **Meditación guiada**: La meditación me ayuda a mantenerme centrado y enfocado en mi día a día.
+- ✍️ **Escritura**: Aunque no he escrito en un tiempo, ocasionalmente me gusta escribir sobre temas que me apasionan.
+
+
 ## Tecnologías
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
