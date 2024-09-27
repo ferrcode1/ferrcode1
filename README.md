@@ -1,4 +1,4 @@
-![Banner](https://web.facebook.com/photo/?fbid=355530337261296&set=a.127339903413675)
+![Banner](https://www.facebook.com/share/Ki4VkU7BZtU6yewh/?mibextid=qi2Omg)
 
 
 # ¡Hola! Soy Fernando Uribe 👋
