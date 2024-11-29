@@ -33,6 +33,8 @@ Cuando no estoy escribiendo líneas de código o resolviendo problemas técnicos
 ## Estadísticas de GitHub
 
 ![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=ferrcode1&show_icons=true&theme=radical)
+![Fernando Uribe GitHub stats](https://github-readme-stats.vercel.app/api?username=ferrcode1&count_private=true&show_icons=true&theme=radical)
+
 
 
 ## Actualmente trabajando en:
